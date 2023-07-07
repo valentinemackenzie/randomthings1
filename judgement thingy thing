@@ -1,0 +1,7 @@
+import random
+
+def coin_toss():
+    return "Heads"
+
+result = coin_toss()
+print("Congratulations! You have won!, the AI gods have decided for you to live!!!!!; just know that regardless of whatever you go through you'll always have the christ and your family by your side.(also this was FATE and totally not rigged so.... LIVE!)")
